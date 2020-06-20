@@ -7,3 +7,7 @@ Provide a VSCode Extension sample providing Editor -> WebView Sync (Content and 
 Existing work: https://github.com/Microsoft/vscode-extension-samples/tree/master/webview-sample
 
 Other work: https://github.com/leocll/vscode-extension-webview-template
+
+
+##  Provide a "PlayGround" for two.js.org
+https://two.js.org/#basic-usage
